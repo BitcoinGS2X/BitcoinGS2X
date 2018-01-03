@@ -26,7 +26,7 @@ Building BitcoinGS2X Core
 
     apt-get install git
     
-    git clone [this repo]
+    git clone https://github.com/BitcoinGS2X/BitcoinGS2X
     cd BitcoinGS2X
 
     ./autogen.sh
